@@ -1,6 +1,10 @@
 # hedless-pi
-Noobs 3.8.1
+PiNN
+PL
 
-PL - jak przygotować kartę SD pod instalację NOOBS bez monitora, oraz jak przeinstalować lub zainstalować inny system na Raspberry Pi
+Jak zdalnie przeinstalować OS na raspberry pi (bez fizycznego dostępu, tylko ssh i vnc)?
+
+- PI ma zainstalowany RPI OS 64 little ( za pomocą pinn, teoretycznie z każdego innego też się da, jeżeli masz działające ssh i sudo
+
 <br/>
 EN - in progress
